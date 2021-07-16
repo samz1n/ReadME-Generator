@@ -1,38 +1,30 @@
-# Sample Project
+# Professional README Generator
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
 ## Description
-This is a sample project
+
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [License](#license)
-* [Credits](#credits)
 * [Questions](#questions)
 
 ## Installation
-install the sample project
+
 
 ## Usage
-use at your own risk haha
+
 
 ## Contributing
-contriubute wisely
 
-## Tests
-run tests
 
 ## License 
-Licensed under the GNU GPLv3.0 License. Copyright © 2021
-
-## Credits
-* thanks mahesh for being a great teacher
+Licensed under the MIT License. Copyright © 2021
 
 ## Questions
 *For any additional information find me at* 
