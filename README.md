@@ -3,6 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Questions](#questions)
 
 ## Description
 This application is used to create quality README files for users working on their repositories. It is important to create a good README as it is the face of your project. This command line application allows for quick creation of a README file for any kind of project.
@@ -12,12 +17,6 @@ This application is used to create quality README files for users working on the
 
 ## Video Link
 https://youtu.be/SoM8v37Yhls
-
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Questions](#questions)
 
 ## Installation
 run:
